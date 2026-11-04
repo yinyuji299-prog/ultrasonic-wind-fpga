@@ -6,6 +6,20 @@
 
 ---
 
+## 目录导航
+
+| 位置 | 内容 |
+|---|---|
+| [`poster.pdf`](poster.pdf) | 作品海报 |
+| [`src/`](src) | Verilog RTL（15 个源文件） |
+| [`embedded_sw/`](embedded_sw) | RISC-V 软件（`main.c` 4319 行） |
+| [`docs/`](docs) | **演示文稿、讲稿、界面图、板卡照片，附中文说明** |
+| [`sapphire_soc.xml`](sapphire_soc.xml) | Efinity 工程 |
+
+**材料怎么看**：先读 [`docs/README.md`](docs/README.md)，里面逐项说明了每份材料的用途、页序、关键数字和出处。
+
+---
+
 ## 硬件平台
 
 | 项 | 内容 |
